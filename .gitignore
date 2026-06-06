@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Test data / scratch files
+backend/solver/test2.json
+backend/solver/test3.json
+backend/solver/circuits.json
+backend/solver/tests.py
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
